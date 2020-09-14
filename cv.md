@@ -34,19 +34,19 @@ Specialist in digital transformation of the industry
 
 **Higher education** - Ulyanovsk state University\
 Faculty of mathematics and information technology\
-Specialty-Computer analyst\
+Specialty-Computer analyst
 
 **Secondary vocational education** - UlSTU\
-Specialty-Software and databases\
+Specialty-Software and databases
 
 **Advanced training, courses**\
 Ranepa\
-Russian presidential Academy of national economy and public administration, Fundamentals of digital transformation and digital economy\
+Russian presidential Academy of national economy and public administration, Fundamentals of digital transformation and digital economy
 
 Ulsu\
-Service state(of the Digital economy)\
+Service state(of the Digital economy)
 
 Educational and research center for information security\
-Ensuring the security of personal data when processing it in personal data information systems.\
+Ensuring the security of personal data when processing it in personal data information systems.
 
-JavaRush - 6 month (24 lvl)\
+JavaRush - 6 month (24 lvl)
