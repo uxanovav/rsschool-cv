@@ -3,6 +3,7 @@
     margin: 0 auto;
     border: black solid 5px;
     font-size: 24px;    
+    background-color: rgb(235, 235, 235);
 }
 
 .main-header {
@@ -16,11 +17,15 @@
 
 .text-info {
     width: 70%;
-    background-color: rgb(235, 235, 235);
+    
     color: rgb(37, 37, 37);
 }
 
 .photo {
     background-color: white;
     width: auto;
+}
+
+.main-content {
+    text-align: justify;
 }
