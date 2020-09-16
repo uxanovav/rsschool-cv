@@ -1,18 +1,19 @@
 .content {
     width: 1024px;
     margin: 0 auto;
-    border: black solid 5px;
     font-size: 24px;    
     background-color: rgb(235, 235, 235);
 }
 
-.main-header {
+.main-header-footer {
     text-align: center;
-    color: rgb(77, 85, 94);
+    color:wheat;
+    background-color: rgb(37, 37, 37);
 }
 
 .contacts {
     display: flex;
+    margin: 30px;
 }
 
 .text-info {
@@ -28,4 +29,5 @@
 
 .main-content {
     text-align: justify;
+    margin: 30px;
 }
